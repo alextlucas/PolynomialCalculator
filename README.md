@@ -9,6 +9,7 @@ Step 2: Run the class in order to use the calculator.
 Step 3: When asked whether you want to add, subtract, or evaluate polynomials, make sure to type exactly "add", "subtract", or "evaluate" (without the quotation marks) in the prompt window.
 
 
+
 Tips for entering the coefficients of your polynomial:
 
 The coefficients of a polynomial is the number being multiplied by the variable. 
