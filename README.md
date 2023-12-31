@@ -1,9 +1,8 @@
 # PolynomialCalculator
 
 Welcome to Polynomial Calculator! Here is a quick user guide:
-Step 1: Open the Polynomial.java file in your IDE of choice.
-Step 2: Run the class in order to use the calculator.
-Step 3: You will be asked whether you want to add, subtract, or evaluate polynomials. Make sure to type exactly "add", "subtract", or "evaluate" (without the quotation marks) in the prompt window. For add and subtract you will be asked to input two polynomials, while for evaluate, you will be asked to evaluate one polynomial and a value for x.
+
+The first step is to open the Polynomial.java file in your IDE of choice. Then, run the class in order to use the calculator. Next, you will be asked whether you want to add, subtract, or evaluate polynomials. Make sure to type exactly "add", "subtract", or "evaluate" (without the quotation marks) in the prompt window. For add and subtract you will be asked to input two polynomials, while for evaluate, you will be asked to evaluate one polynomial and a value for x.
 
 Here are examples to show what add, subtract, and evaluate functions do:
 
