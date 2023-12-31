@@ -16,7 +16,7 @@ Example of evaluating a polynomial: 2x^2 + 3x + 4, evaluated at x = 6, is equal 
 
 Tips for entering the coefficients of your polynomial:
 
-The coefficients of a polynomial is the number being multiplied by the variable. 
+The coefficient of a polynomial is the number being multiplied by the variable. 
 For example, the coefficent of 7x^2, is 7.
 This calculator can only deal with coefficients that are integers (will not take decimals or fractions).
 Make sure to type each coefficient with only one space in between (no commas or anything else).
